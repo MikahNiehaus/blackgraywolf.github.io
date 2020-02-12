@@ -1,11 +1,11 @@
 # Site settings
-author: industrious-generator-6081
-title: 
+author: Mikah Niehaus
+title: My Flatiron Journey
 header-img: img/home-bg.png
 email: graywolf.niehaus@live.com
-copyright_name: industrious-generator-6081
+copyright_name: Mikah Niehaus
 description: > # this means to ignore newlines until "baseurl:"
-  
+  my journey taking classes at Flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  blackgraywolf
