@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Cheat Sheet"
-date:       2020-04-11 20:55:43 +0000
+date:       2020-04-11 16:55:44 -0400
 permalink:  ruby_cheat_sheet
 ---
 
