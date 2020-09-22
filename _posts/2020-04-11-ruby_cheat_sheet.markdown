@@ -1,14 +1,16 @@
 ---
 layout: post
-title:      "Ruby Cheat Sheet"
+title:      "Most utilized Ruby Notes"
 date:       2020-04-11 16:55:44 -0400
 permalink:  ruby_cheat_sheet
 ---
 
 
-class method provides functionality to a class itself, you cannot directly call a class method on an instance. class method is a method that resides at the class level
-instance method provides functionality to one instance of a class, you cannot call an instance method on the class itself, instance method is a method that resides at the object level
-Both are Objects.
+Ruby is an interpreted, high-level, general-purpose programming language.
+
+Class method provide functionality to a class itself you cannot directly call a class method on an instance. Class method is a method that resides at the class level
+instance method provides functionality to one instance of a class, you cannot call an instance method on the class itself instance method is a method that resides at the object level
+both are Objects,
 •	Class variable (@@a_variable): Available from the class definition and any sub-classes. Not available from anywhere outside.
 •	Instance variable (@a_variable): Available only within a specific object, across all methods in a class instance. Not available directly from class definitions.
 •	Global variable ($a_variable): Available everywhere within your Ruby script.
