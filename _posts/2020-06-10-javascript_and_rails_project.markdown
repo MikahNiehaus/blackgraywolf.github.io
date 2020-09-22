@@ -1,10 +1,12 @@
 ---
 layout: post
 title:      "JavaScript and rails project"
-date:       2020-06-10 18:57:14 +0000
+date:       2020-06-10 14:57:15 -0400
 permalink:  javascript_and_rails_project
 ---
 
 
-The JavaScript and realist project was the hardest project yet. Fetch specifically was very difficult to understand. My project was really simple and putting it together was very hard but I see how it could scale up very easily by reusing a lot of the same code. The hardest part was using three different languages and communicating with all of them. I Felt like I was sort of just hard JavaScript and then jumped right into using ruby SQL and JavaScript altogether without much intro but I ended up getting the hang of it.
+My project is called CC and it is used for saving Close-Captions from Youtube and quicky finding forgotten parts. This is done by easley adding the closed captions of YouTube videos into my program and then it will be edited into a more readable form and opened in word so you can easily find specific words in the context that it was said in. My application uses HTML, CSS, and JavaScript frontend with a Rails API backend. It handles client and server interactions asynchronously (AJAX) and use JSON as the communication format. It uses Object Oriented JavaScript with a Rails backend that includes a resource with has-many relationship. It has AJAX calls, CRUD, uses fetch with HTTP verb, and Rails API uses RESTful conventions.
+
+
 
