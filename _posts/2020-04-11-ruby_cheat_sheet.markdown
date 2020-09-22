@@ -7,7 +7,6 @@ permalink:  ruby_cheat_sheet
 
 
 Ruby is an interpreted, high-level, general-purpose programming language.
-
 Class method provide functionality to a class itself you cannot directly call a class method on an instance. Class method is a method that resides at the class level
 instance method provides functionality to one instance of a class, you cannot call an instance method on the class itself instance method is a method that resides at the object level
 both are Objects,
